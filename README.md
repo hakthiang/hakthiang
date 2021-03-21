@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤔 I’m a student at SCUT
+- 🔭 I’m currently working on frontend
+- 🌱 I’m currently learning react.js
+
+
+
+![hakthiang's github stats](https://github-readme-stats.vercel.app/api?username=hakthiang&show_icons=true&theme=radical) 
