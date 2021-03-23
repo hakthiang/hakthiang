@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 
-![hakthiang's github stats](https://github-readme-stats.vercel.app/api?username=hakthiang&show_icons=true&theme=radical) 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hakthiang&show_icons=true">
