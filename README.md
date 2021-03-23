@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 
-[![hakthiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakthiang)](https://github.com/hakthiang/github-readme-stats)
+[![hakthiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakthiang&show_icons=true&theme=highcontrast)](https://github.com/hakthiang/github-readme-stats)
