@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m a student at SCUT
 - 🔭 I’m currently working on frontend
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning JavaScript
 
 
 
