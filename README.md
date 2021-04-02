@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🤔 I’m a student at SCUT
 - 🔭 I’m currently working on frontend
 - 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to get an internship ...
 
 
 
