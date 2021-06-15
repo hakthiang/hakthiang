@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🤔 I’m a student at SCUT
 - 🔭 I’m currently working on frontend
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to get an internship ...
+- 🌱 I’m currently learning JavaScript and CSS and Webpack
+- 👯 Hope I can be a qulified coder sooner
 
 
 
