@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤔 I’m a student at SCUT
-- 🔭 I’m currently working on frontend
-- 🌱 I’m currently learning JavaScript and CSS and Webpack
-- 👯 Hope I can be a qulified coder sooner
+- 🔭 Currently I’m a frontend develop
+- 🌱 Hope I can make the world a better place with my coding ability
 
 
 
