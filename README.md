@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Currently I’m a frontend develop
-- 🌱 Hope I can make the world a better place with my coding ability
+- 🌱 Hope I can make the world a better place
 
 
 
